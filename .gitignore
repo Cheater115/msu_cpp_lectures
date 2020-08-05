@@ -1,3 +1,4 @@
 prog
 test
 *.out*
+settings.json
